@@ -1,0 +1,24 @@
+{
+  "name": "react-ts-vzz5o9",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/events": "^1.2.0",
+    "@types/react": "16.4.18",
+    "@types/react-dom": "16.0.9",
+    "@types/react-router-dom": "^4.3.1",
+    "events": "^3.0.0",
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "react-router-dom": "^4.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "latest"
+  }
+}
